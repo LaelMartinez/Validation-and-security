@@ -1,0 +1,26 @@
+package com.devsuperior.dscatalog.dto;
+
+import java.io.Serializable;
+
+public class InsertUserDTO extends UserDTO implements Serializable {
+	private static final long serialVersionUID = 1L;
+
+	private String password;
+	
+	public InsertUserDTO() {
+
+	}
+	
+	public InsertUserDTO(String password) {
+		this.password = password;
+	}
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	
+}
