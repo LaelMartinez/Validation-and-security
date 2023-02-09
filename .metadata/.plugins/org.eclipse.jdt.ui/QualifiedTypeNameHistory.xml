@@ -7,4 +7,16 @@
     <fullyQualifiedTypeName name="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
     <fullyQualifiedTypeName name="com.devsuperior.dscatalog.dto.UserDTO"/>
     <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Positive"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.PastOrPresent"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.NotBlank"/>
+    <fullyQualifiedTypeName name="javax.validation.constraints.Size"/>
+    <fullyQualifiedTypeName name="javax.validation.Valid"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dscatalog.resources.exceptions.StandardError"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dscatalog.resources.exceptions.FieldMessage"/>
+    <fullyQualifiedTypeName name="org.springframework.validation.FieldError"/>
 </qualifiedTypeNameHistroy>
