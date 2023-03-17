@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="com.devsuperior.dscatalog.entities.Role"/>
     <fullyQualifiedTypeName name="com.devsuperior.dscatalog.repositories.RoleRepository"/>
-    <fullyQualifiedTypeName name="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
     <fullyQualifiedTypeName name="javax.persistence.Column"/>
     <fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
     <fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
@@ -16,7 +15,6 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="org.springframework.validation.FieldError"/>
     <fullyQualifiedTypeName name="com.devsuperior.dscatalog.services.validation.UserInsertValid"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="com.devsuperior.dscatalog.repositories.UserRepository"/>
     <fullyQualifiedTypeName name="com.devsuperior.dscatalog.resources.exceptions.FieldMessage"/>
     <fullyQualifiedTypeName name="com.devsuperior.dscatalog.dto.UserDTO"/>
@@ -28,4 +26,19 @@
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="javax.validation.Valid"/>
     <fullyQualifiedTypeName name="com.devsuperior.dscatalog.services.validation.UserUpdateValid"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.authority.SimpleGrantedAuthority"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collector"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UserDetailsService"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.UsernameNotFoundException"/>
+    <fullyQualifiedTypeName name="ch.qos.logback.classic.Logger"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="com.sun.org.slf4j.internal.LoggerFactory"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+    <fullyQualifiedTypeName name="com.devsuperior.dscatalog.services.UserService"/>
+    <fullyQualifiedTypeName name="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
+    <fullyQualifiedTypeName name="org.springframework.security.oauth2.provider.token.store.JwtAccessTokenConverter"/>
+    <fullyQualifiedTypeName name="org.springframework.security.oauth2.provider.token.store.JwtTokenStore"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.security.authentication.AuthenticationManager"/>
 </qualifiedTypeNameHistroy>
